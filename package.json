@@ -1,0 +1,18 @@
+{
+  "name": "exng.github.io",
+  "author": "Johann Behr <johannbehr@exng.de>",
+  "scripts": {
+    "build": "node_modules/quasar-cli/bin/quasar build"
+  },
+  "homepage": "https://github.com/ExNG/exng.github.io#readme",
+  "devDependencies": {
+    "quasar-cli": "^0.15.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExNG/exng.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExNG/exng.github.io/issues"
+  }
+}
